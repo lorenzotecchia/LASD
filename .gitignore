@@ -27,7 +27,7 @@ bin/
 # Ignore a file with extension
 */.out
 .DS_Store
-*/.vscode
+.vscode
 
 # Ignore a file without extension
 */
